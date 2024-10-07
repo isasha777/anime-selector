@@ -1,7 +1,7 @@
 {
   "name": "anime-selector",
   "version": "0.1.0",
-  "homepage": "https://github.com/isasha777/anime-selector",
+  "homepage": "https://isasha777.github.io/anime-selector",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
